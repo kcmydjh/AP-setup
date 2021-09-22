@@ -1,5 +1,6 @@
 # AP-setup
 
+aerohive ap 不能连接云端管理
 使用CLI命令行方式简单两个步骤为Aerohive AP配置SSID名称
 
 恢复出厂设置后 reset  AP蓝灯闪烁
@@ -9,7 +10,7 @@
 
 打开SecureCRT,波特率：9600 用户名：admin 密码：aerohive  SSH也可用
 
-配置SSID的profile,如SSID名称为AP-CMUI,执行指令: ssid AP-xizhai
+配置SSID的profile,如SSID名称为AP-xizhai,执行指令: ssid AP-xizhai
 
 将SSID的profile与wifi接口进行关联绑定生效,执行指令:
 
